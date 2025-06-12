@@ -375,7 +375,9 @@ document.write(`
   </button>
 `);
 </script>
-
+<button class="sidebar-toggle secondary-toggle btn btn-sm" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
+</button>
 </div></div>
       
     </div>
@@ -391,6 +393,22 @@ document.write(`
     <div id="print-main-content">
         <div id="jb-print-toc">
             
+            <div>
+                <h2> Contents </h2>
+            </div>
+            <nav aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#structure-of-a-scientific-paper">Structure of a scientific paper</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#abstract">1. Abstract:</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#introduction">2. Introduction:</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#methods">3. Methods:</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#results">4. Results:</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#discussion">5. Discussion:</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#references">6. References:</a></li>
+</ul>
+</li>
+</ul>
+            </nav>
         </div>
     </div>
 </div>
@@ -402,40 +420,71 @@ document.write(`
                   
   <section class="tex2jax_ignore mathjax_ignore" id="writing-a-scientific-paper">
 <h1>Writing a scientific paper<a class="headerlink" href="#writing-a-scientific-paper" title="Permalink to this heading">#</a></h1>
-<p>Writing a scientific paper can be a challenging task, but with a well-structured approach and a few helpful tips, it can be a rewarding experience. A scientific paper is a formal way to communicate your research findings to the scientific community and is an essential part of the scientific process.
-Structure</p>
+<p>Writing a scientific paper can be a challenging task, but with a well-structured approach and a few helpful tips, it can be a rewarding experience.</p>
+<p>A scientific paper is a <strong>formal way</strong> to communicate your research findings to the scientific community and is an essential part of the scientific process.</p>
+<section id="structure-of-a-scientific-paper">
+<h2>Structure of a scientific paper<a class="headerlink" href="#structure-of-a-scientific-paper" title="Permalink to this heading">#</a></h2>
 <p>The following is a typical structure for a scientific paper:</p>
+<section id="abstract">
+<h3>1. Abstract:<a class="headerlink" href="#abstract" title="Permalink to this heading">#</a></h3>
+<ul class="simple">
+<li><p>A <strong>summary</strong> of the hypothesis, design, and findings</p></li>
+<li><p>The PR section <strong>(~200 words)</strong></p></li>
+</ul>
+</section>
+<section id="introduction">
+<h3>2. Introduction:<a class="headerlink" href="#introduction" title="Permalink to this heading">#</a></h3>
+<ul class="simple">
+<li><p>Establish a <strong>state of knowledge</strong></p></li>
+<li><p>summarize <strong>previous findings</strong></p></li>
+<li><p>bridge the <strong>gap</strong> between existing knowledge and current questions</p></li>
+<li><p>state the <strong>research question</strong> clearly and explain why it is important</p></li>
+<li><p>clearly state any <strong>specific hypothesis</strong></p></li>
+</ul>
+</section>
+<section id="methods">
+<h3>3. Methods:<a class="headerlink" href="#methods" title="Permalink to this heading">#</a></h3>
+<ul class="simple">
+<li><p>Describe the <strong>methods</strong> and <strong>procedures</strong> used in the experiment, including any <em>equipment</em> and <em>materials</em> used</p>
+<ul>
+<li><p>E.g., recruitment, inclusion/exclusion criteria, measures, hardware, procedure, design, analysis pipeline</p></li>
+</ul>
+</li>
+<li><p>be detailed enough that someone else could <strong>reproduce the experiment</strong></p></li>
+</ul>
+</section>
+<section id="results">
+<h3>4. Results:<a class="headerlink" href="#results" title="Permalink to this heading">#</a></h3>
+<ul class="simple">
+<li><p>Present your findings, including any <strong>data</strong> and <strong>statistical analyses</strong></p>
 <ol class="arabic simple">
-<li><p>Abstract:</p></li>
+<li><p><strong>descriptives</strong></p></li>
+<li><p><strong>inferential statistics</strong></p></li>
 </ol>
-<p>A summary of the hypothesis, design, and findings. The PR section. (~200 words)</p>
-<ol class="arabic" start="2">
-<li><p>Introduction:</p>
-<p>Establish a state of knowledge
-summarize previous findings,
-bridge the gap between existing knowledge and current questions,
-state the research question clearly and explain why it is important
-clearly state any specific hypothesis</p>
 </li>
-<li><p>Methods:</p>
-<p>Describe the methods and procedures used in the experiment, including any equipment and materials used.
-E.g., recruitment, inclusion/exclusion criteria, measures, hardware, procedure, design, analysis pipeline.
-be detailed enough that someone else could reproduce the experiment</p>
+<li><p>Include <strong>tables</strong>, <strong>figures</strong>, and <strong>graphs</strong> to help illustrate the results</p></li>
+</ul>
+</section>
+<section id="discussion">
+<h3>5. Discussion:<a class="headerlink" href="#discussion" title="Permalink to this heading">#</a></h3>
+<ul class="simple">
+<li><p>Summarize the <strong>main findings</strong> and their significance</p></li>
+<li><p><strong>Verdict on the hypothesis</strong></p></li>
+<li><p><strong>Interpret</strong> the results</p></li>
+<li><p><strong>discuss their implications</strong> in the context of previous research</p></li>
+<li><p><strong>study limitations</strong></p>
+<ul>
+<li><p>validity, measurement error, design weaknesses</p></li>
+</ul>
 </li>
-<li><p>Results:</p>
-<p>Present your findings, including any data and statistical analyses.
-start with descriptive and follow with inferential statistics
-Include tables, figures, and graphs to help illustrate the results</p>
-</li>
-<li><p>Discussion:</p>
-<p>Summarize the main findings and their significance
-Verdict on the hypothesis
-Interpret the results and discuss their implications in the context of previous research and study limitations (validity, measurement error, design weaknesses),
-recommendations and avenues for future research</p>
-</li>
-<li><p>References:</p></li>
-</ol>
-<p>List the sources cited in the paper in a consistent format (e.g., APA, MLA).</p>
+<li><p><strong>recommendations</strong> and <strong>avenues for future research</strong></p></li>
+</ul>
+</section>
+<section id="references">
+<h3>6. References:<a class="headerlink" href="#references" title="Permalink to this heading">#</a></h3>
+<ul class="simple">
+<li><p>List the <strong>sources cited</strong> in the paper in a <strong>consistent format</strong> (e.g., APA, MLA).</p></li>
+</ul>
 <p>Tips for Junior Scientists:</p>
 <div class="highlight-none notranslate"><div class="highlight"><pre><span></span>Be concise and to the point. Avoid unnecessary words/phrases.
 Use clear and simple language. Avoid technical phrases unless necessary
@@ -622,6 +671,8 @@ conclusion 3 -&gt; Hypothesis 3</p>
 <li><p>reviewers (i.e., your P.I., etc.)</p></li>
 </ul>
 </section>
+</section>
+</section>
 
     <script type="text/x-thebe-config">
     {
@@ -659,6 +710,29 @@ conclusion 3 -&gt; Hypothesis 3</p>
             </div>
             
             
+              
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> Contents
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#structure-of-a-scientific-paper">Structure of a scientific paper</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#abstract">1. Abstract:</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#introduction">2. Introduction:</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#methods">3. Methods:</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#results">4. Results:</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#discussion">5. Discussion:</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#references">6. References:</a></li>
+</ul>
+</li>
+</ul>
+  </nav></div>
+
+</div></div>
               
             
           </div>
