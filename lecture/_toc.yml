@@ -1,12 +1,25 @@
 root: general_information/index
 format: jb-book
-chapters:
-- file: general_information/overview
-- file: general_information/setup
-- file: general_information/intro
-- file: content/intro_content
-  sections:
-  - file: content/static_content
-  - file: content/interactive_notebook
-- file: general_information/CoC
-- file: general_information/dei
+parts:
+- caption: Getting Started
+  chapters:
+  - file: general_information/overview
+  - file: general_information/intro
+  - file: content/intro_content
+parts:
+- caption: Digital Literacy in Research 
+  chapters:
+  - file: content/planning
+  - file: content/literature
+  - file: content/data-management
+  - file: content/analysis
+  - file: content/writing  
+  - file: content/communication
+parts:
+- caption: Advanced Information 
+  chapters:
+  - file: content/advanced
+- caption: Miscellaneous 
+  chapters:
+  - file: general_information/CoC
+  - file: general_information/dei
