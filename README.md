@@ -3,9 +3,9 @@
 
 ## "What's in this repository?"
 
-This repository contains a colletion of materials for a course on digital literacy in higher education developed as part of the DiLER project of the Goethe-University Frankfurt.
+This repository contains a collection of materials for a course on digital literacy in higher education developed as part of the DiLER project of the Goethe-University Frankfurt.
 
-DiLER or Digital Literacy for Empirical Research aims to provide an cost-free, open Educational Resource using multimodal competence-oriented content for promoting research-based teaching of digital literacy skills in higher eductaion.
+[DiLER](https://diler-digitell.github.io/examples.html) (Digital Literacy for Empirical Research) aims to provide an cost-free, open Educational Resource using multimodal competence-oriented content for promoting research-based teaching of digital literacy skills in higher eductaion.
 
 Find the course here: 
 
