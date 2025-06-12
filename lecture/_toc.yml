@@ -5,7 +5,6 @@ parts:
   chapters:
   - file: general_information/overview
   - file: general_information/intro
-  - file: content/intro_content
 parts:
 - caption: Digital Literacy in Research 
   chapters:
