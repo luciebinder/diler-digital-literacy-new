@@ -1,44 +1,53 @@
 # Writing a scientific paper
 
-Writing a scientific paper can be a challenging task, but with a well-structured approach and a few helpful tips, it can be a rewarding experience. A scientific paper is a formal way to communicate your research findings to the scientific community and is an essential part of the scientific process.
-Structure
+Writing a scientific paper can be a challenging task, but with a well-structured approach and a few helpful tips, it can be a rewarding experience. 
+
+A scientific paper is a **formal way** to communicate your research findings to the scientific community and is an essential part of the scientific process.
+
+
+## Structure of a scientific paper
 
 The following is a typical structure for a scientific paper:
 
-1. Abstract:
+### 1. Abstract:
 
-A summary of the hypothesis, design, and findings. The PR section. (~200 words)
+- A **summary** of the hypothesis, design, and findings
+- The PR section **(~200 words)**
 
-2. Introduction:
+### 2. Introduction:
 
-    Establish a state of knowledge
-    summarize previous findings,
-    bridge the gap between existing knowledge and current questions,
-    state the research question clearly and explain why it is important
-    clearly state any specific hypothesis
+- Establish a **state of knowledge**
+- summarize **previous findings**
+- bridge the **gap** between existing knowledge and current questions
+- state the **research question** clearly and explain why it is important
+- clearly state any **specific hypothesis**
 
-3. Methods:
+### 3. Methods:
 
-    Describe the methods and procedures used in the experiment, including any equipment and materials used.
-    E.g., recruitment, inclusion/exclusion criteria, measures, hardware, procedure, design, analysis pipeline.
-    be detailed enough that someone else could reproduce the experiment
+- Describe the **methods** and **procedures** used in the experiment, including any *equipment* and *materials* used
+    - E.g., recruitment, inclusion/exclusion criteria, measures, hardware, procedure, design, analysis pipeline
+- be detailed enough that someone else could **reproduce the experiment**
 
-4. Results:
+### 4. Results:
 
-    Present your findings, including any data and statistical analyses.
-        start with descriptive and follow with inferential statistics
-    Include tables, figures, and graphs to help illustrate the results
+- Present your findings, including any **data** and **statistical analyses**
+    1. **descriptives**
+    2. **inferential statistics**
+- Include **tables**, **figures**, and **graphs** to help illustrate the results
 
-5. Discussion:
+### 5. Discussion:
 
-    Summarize the main findings and their significance
-    Verdict on the hypothesis
-    Interpret the results and discuss their implications in the context of previous research and study limitations (validity, measurement error, design weaknesses),
-    recommendations and avenues for future research
+- Summarize the **main findings** and their significance
+- **Verdict on the hypothesis**
+- **Interpret** the results
+- **discuss their implications** in the context of previous research
+- **study limitations**
+  - validity, measurement error, design weaknesses
+- **recommendations** and **avenues for future research**
 
-6. References:
+### 6. References:
 
-List the sources cited in the paper in a consistent format (e.g., APA, MLA).
+- List the **sources cited** in the paper in a **consistent format** (e.g., APA, MLA).
 
 Tips for Junior Scientists:
 
