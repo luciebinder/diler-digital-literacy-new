@@ -7,7 +7,7 @@ This repository contains a collection of materials for a course on digital liter
 
 [DiLER](https://diler-digitell.github.io/examples.html) (Digital Literacy for Empirical Research) aims to provide an cost-free, open Educational Resource using multimodal competence-oriented content for promoting research-based teaching of digital literacy skills in higher eductaion.
 
-Find the course here: 
+Find the course here: https://luciebinder.github.io/diler-digital-literacy-new
 
 Credit goes to the original G0RELLA template lectures.
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4279400.svg)](https://doi.org/10.5281/zenodo.4279400)
