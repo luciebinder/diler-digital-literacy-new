@@ -49,46 +49,65 @@ The following is a typical structure for a scientific paper:
 
 - List the **sources cited** in the paper in a **consistent format** (e.g., APA, MLA).
 
-Tips for Junior Scientists:
+>**Tips for Junior Scientists 💁**:
+>
+> - Be **concise** and **to the point**
+> - Avoid **unnecessary words/phrases**
+> - Use **clear** and **simple language**
+> - Avoid **technical phrases** unless necessary
+> - Be **thorough** and **accurate** in reporting your results
+> - Include **all relevant data** and **any limitations** (it is better to cut later than to have to redo the work because you missed important implications)
+> - Support your claims and conclusions with **references as much as possible**
+>     - if you state a fact, you gotta have the receipts
+> - **Review** and **revise** your work several times before submitting it
+> - Pay attention to **grammar**, **spelling**, and **formatting**.
 
-    Be concise and to the point. Avoid unnecessary words/phrases.
-    Use clear and simple language. Avoid technical phrases unless necessary
-    Be thorough and accurate in reporting your results. Include all relevant data and any limitations (it is better to cut later than to have to redo the work because you missed important implications)
-    Support your claims and conclusions with references as much as possible -> if you state a fact, you gotta have the receipts
-    Review and revise your work several times before submitting it. Pay attention to grammar, spelling, and formatting.
+### 10 rules on structuring your paper
 
-10 rules on structuring your paper
+Writing a good paper takes time and practice. We'll summarize the most important points of a paper by **[Mensh & Kording (2017)](https://doi.org/10.1371/journal.pcbi.1005619)** providing **rules for scientific writing**. 
 
-Writing a good paper takes time and practice. We'll walk thorugh a paper by Mensh & Kording (2017)) providing rules for scientific writing. These rules aim to introduce a frame of reference on how to get started with scientific writing, continuously improve, and avoid mistakes and frustrations.
+These rules aim to introduce a frame of reference on how to get started with scientific writing, continuously improve, and avoid mistakes and frustrations.
 
-logo
+We'll go over 
+- **general principles regarding writing for an audience (rules 1 - 4)**
+- the **different components of a paper** and what they are each trying to communicate **(rules 5 - 8)**
+- some considerations for the **writing process itself (rules 9 - 10)**
 
-We'll go over general principles regarding writing for an audience (rules 1 - 4), the different components of a paper and what they are each trying to communicate (rules 5 - 8), and lastly, some considerations for the writing process itself (rules 9 - 10).
+You can also find a checklist for your scientific writing based on **[Mensh & Kording (2017)](https://doi.org/10.1371/journal.pcbi.1005619)** here.
 
-The images below provide a short summary of the ten rules we'll discuss and how violations of these rules might manifest. It's a good idea to check back once you've read the rest of the chapter to evaluate your understanding, but it can be further used as a checklist for good writing in your future endeavors.
-Summary of the ten rules and how to tell if they are being violated;
+#### Principles (Rules 1–4)
 
-Table 1. Mensh & Kording (2017); doi.org/10.1371/journal.pcbi.1005830
+In the following section, we'll introduce **general writing principles** to **optimize the reader’s experience** and **effectively communicate the aims of our work**.
 
-logo
-Principles (Rules 1–4)
+##### 1. Focus your paper on a central contribution, which you communicate in the title
 
-In the following section, we'll introduce general writing principles to optimize the reader’s experience and effectively communicate the aims of our work.
-1. Focus your paper on a central contribution, which you communicate in the title
+- A paper ideally aims to provide a **single contribution**
+   - multiple contributions: tend to be less convincing and, therefore, **less memorable**
+- The **title** is a crucial part here
+    - the first element a reader encounters
+    - determines if people will read even the abstract <br>
+❗ **Focus on a single message transmitted by the title**, but don't over-sell
 
-A paper ideally aims to provide a single contribution; multiple contributions tend to be less convincing and, therefore, less memorable. The title is a crucial part here, as it's the first element a reader encounters and determines if people will read even the abstract. Focus on a single message transmitted by the title, but don't over-sell.
-2. Write for flesh-and-blood human beings who do not know your work
+> **Examples**
+>
+> ✅ Mindfulness Training Reduces Test Anxiety in Undergraduate Students: Evidence from a Randomized Controlled Trial <br>
+> :x: Mindfulness Eliminates Academic Stress and Boosts Performance Across All Students
 
-You, as the writer, will be the expert on your work, but we'll have to assume that readers may possibly be naive to the work or field. Therefore, we need to consider the following:
+##### 2. Write for flesh-and-blood human beings who do not know your work
 
-- quality and how clear your writing is can be nearly impossible to judge work from the perspective of the naive reader
+You, as the writer, will be the expert on your work, but we'll have to assume that readers may possibly be naive to the work or field. <br>
+Therefore, we need to consider the following:
 
-- an approach from the perspective of a naive reader means to make clear "why do you need to understand/care about this problem" and how the paper answers the problem/question (ideally understandable with minimal effort).
+- **quality** and how **clear** your writing is can be nearly impossible to judge work from the perspective of the naive reader
 
-- define technical terms and avoid abbreviations/acronyms 
+- an approach from the perspective of a naive reader means to make clear
+  1. **why do you need to understand/care about this problem**
+  2. **how the paper answers the problem/question** (ideally understandable with minimal effort)
+
+- **define technical terms** and **avoid abbreviations/acronyms** 
     - adapt to the working memory constraints of humans
-    - 2-3 abbreviations in total, write out the first time with the abbreviation in ()
-    - avoid using different words for the same concept/thing -> confuses the reader
+        - 2-3 abbreviations in total, write out the first time with the abbreviation in **()**
+    - **avoid using different words for the same concept/thing** :arrow_right: confuses the reader
 
 3. Stick to the context-content-conclusion (C-C-C) scheme
 
