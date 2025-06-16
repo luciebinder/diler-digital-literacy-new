@@ -143,7 +143,7 @@ Instead, make use of **parallelism** to provide structure:
 - parallel messages ➡️ parallel form ➡️ easier for reader
 - communicate **different points of an overarching topic using the same syntax**
 
-> ✅
+> ✅ **Parallelism**
 > 
 > Introduction: 
 >
@@ -275,20 +275,38 @@ Figures and tables take time to be designed and implemented well.
 
 So before investing time, consider the following:
 
-| Figures | Tables
-|---|--- | 1. Is the figure necessary? | 1. Is the table necessary? | 2. Is the figure simple, clean, and free of extraneous detail?| 2. Is the entire table single- or double-spaced (including the title, headings, and notes)?
-| 3. Is the data plotted accurately? | 3. Is the title brief but explanatory? | 4. Are all axes named correctly?| 4. Does every column have a column heading? | 5. Are parallel figures or equally important figures prepared according to the same scale? | 5. Are all abbreviations and special symbols explained? | 6. Are all abbreviations and special symbols explained? | 6. Is the table referred to in the text? | 7. Is the figure referred to in the text? |
+**Figures** 📶
+
+- [ ] Is the figure **necessary**?
+- [ ] Is the figure **simple, clean, and free of extraneous detail**?
+- [ ] Is the data **plotted accurately**?
+- [ ] Are all **axes named correctly**?
+- [ ] Are parallel figures or equally important figures prepared according to the same scale?
+- [ ] Are all abbreviations and special symbols explained?
+- [ ] Is the figure **referred to in the text**?
+
+**Tables** 🔠
+- [ ] Is the table **necessary**?
+- [ ] Is the entire table **single- or double-spaced** (including the title, headings, and notes)?
+- [ ] Is the **title brief but explanatory**?
+- [ ] Does every column have a **column heading**?
+- [ ] Are all **abbreviations** and **special symbols explained**?
+- [ ] Is the table **referred to in the text**?
 
 #### 10. Get feedback to reduce, reuse, and recycle the story
 
-Writing can be seen as an optimization problem, meaning, quite often, multiple iterations are necessary. Accept that this is ok and usually what we want as:
+Writing can be seen as an **optimization problem**, meaning, quite often, multiple iterations are necessary. 
 
-- some or all aspects can be continuously improved
-- rewriting is often faster than cumbersome editing
+> **Tip** 💡
+>
+> Accept that this is ok and usually what we want as:
+>
+> - some or all aspects can be **continuously improved**
+> - **rewriting is often faster** than cumbersome editing
 
-It's important to always check if further work is necessary to find violations of good writing; you can use the table at the beginning of this section as a checklist for this purpose.
+It's important to always check if further work is necessary to find violations of good writing; you can use the table below as a checklist for this purpose.
 
-Writing is further not something that is done in isolation; it is essential to ask for input/feedback from multiple people:
+Writing is further not something that is done in isolation; it is essential to **ask for input/feedback from multiple people**:
 
 - different test readers (differing in expertise etc.)
 - reviewers (i.e., your P.I., etc.)
