@@ -213,16 +213,16 @@ Aim to convince the reader that the **claims in the abstract and the following c
 
 The first paragraph 
 
-- summarizes the overall approach used to address the problem outlined in the introduction
-- sketches out the logical structure of how the results support the claims.
+- **summarizes the overall approach** used to address the problem outlined in the introduction
+- sketches out the **logical structure** of how the results support the claims.
 
-Ideally, these are converted into a sequence of declarative statements on the highlighted gap in knowledge/methods and why the researchers are addressing them in a clear progression of logical steps. These statements can then be used as the names of the headers of subsections and titles of figures in the following paragraphs.
+Ideally, these are converted into a **sequence of declarative statements** on the highlighted gap in knowledge/methods and why the researchers are addressing them in a clear progression of logical steps. These **statements** can then be used as the **names of the headers of subsections** and **titles of figures** in the following paragraphs.
 
 All subsequent paragraphs should follow the structure of:
 
-- **context**: setup questions paragraph answers
-- **content**: data/logic
-- **conclusion**: answer the question
+- **context**: setup the *questions* that the paragraph answers
+- **content**: *data/logic*
+- **conclusion**: *answer* the question
 
 In this section, **figures, tables, and titles** are particularly important, as these are the most “objective support” towards claims. 
 
@@ -234,7 +234,7 @@ The discussion aims to explain how the **results have filled the gap identified 
 
 Overall, provide a **step-by-step outline to put the conclusions of the paper into context**.
 
-The structure should roughly follow:
+The structure should roughly as following:
 
 First paragraph:
 
@@ -256,18 +256,18 @@ Let's introduce some helpful processes and habits to **maximize impact** and **m
 
 #### 9. Allocate time where it matters: Title, abstract, figures, and outlining
 
-It's paramount to emphasize the central logic that underlies the scientific claim, the main message of the paper. Reflections on the logic behind the paper connect the experimental phase with the paper-writing phase.
+It's paramount to emphasize the **central logic** that underlies the scientific claim, the **main message** of the paper. Reflections on the logic behind the paper connect the experimental phase with the paper-writing phase.
 
 You should aim to:
 
-- allocate time based on presumptive importance.
+- allocate time based on presumptive importance
 
-- title, abstract, figures vs. rest/methods (not ideal but unfortunately the default for most readers)
+    - **title, abstract, figures** vs. rest/methods (not ideal but unfortunately the default for most readers)
 
-plan before producing
+Plan before producing
 
-- make an outline
-- informal sentence for each planned paragraph
+- make an **outline**
+  - informal sentence for each planned paragraph
 - (potentially) start the process around the description of each result
 - each paragraph has a defined role ideally defined at the outline stage
 
@@ -278,7 +278,8 @@ So before investing time, consider the following:
 | Figures | Tables
 |---|--- | 1. Is the figure necessary? | 1. Is the table necessary? | 2. Is the figure simple, clean, and free of extraneous detail?| 2. Is the entire table single- or double-spaced (including the title, headings, and notes)?
 | 3. Is the data plotted accurately? | 3. Is the title brief but explanatory? | 4. Are all axes named correctly?| 4. Does every column have a column heading? | 5. Are parallel figures or equally important figures prepared according to the same scale? | 5. Are all abbreviations and special symbols explained? | 6. Are all abbreviations and special symbols explained? | 6. Is the table referred to in the text? | 7. Is the figure referred to in the text? |
-10. Get feedback to reduce, reuse, and recycle the story
+
+#### 10. Get feedback to reduce, reuse, and recycle the story
 
 Writing can be seen as an optimization problem, meaning, quite often, multiple iterations are necessary. Accept that this is ok and usually what we want as:
 
