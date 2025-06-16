@@ -12,7 +12,7 @@ parts:
   - file: content/literature/intro
   - file: content/data-management/intro
   - file: content/analysis/intro
-  - file: content/writing/intro
+  - file: content/writing/scientific_paper
   - file: content/communication/intro
 parts:
 - caption: Advanced Information 
