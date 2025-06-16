@@ -277,21 +277,21 @@ So before investing time, consider the following:
 
 **Figures** 📶
 
-- [ ] Is the figure **necessary**?
-- [ ] Is the figure **simple, clean, and free of extraneous detail**?
-- [ ] Is the data **plotted accurately**?
-- [ ] Are all **axes named correctly**?
-- [ ] Are parallel figures or equally important figures prepared according to the same scale?
-- [ ] Are all abbreviations and special symbols explained?
-- [ ] Is the figure **referred to in the text**?
+[ ] Is the figure **necessary**?
+[ ] Is the figure **simple, clean, and free of extraneous detail**?
+[ ] Is the data **plotted accurately**?
+[ ] Are all **axes named correctly**?
+[ ] Are parallel figures or equally important figures prepared according to the same scale?
+[ ] Are all abbreviations and special symbols explained?
+[ ] Is the figure **referred to in the text**?
 
 **Tables** 🔠
-- [ ] Is the table **necessary**?
-- [ ] Is the entire table **single- or double-spaced** (including the title, headings, and notes)?
-- [ ] Is the **title brief but explanatory**?
-- [ ] Does every column have a **column heading**?
-- [ ] Are all **abbreviations** and **special symbols explained**?
-- [ ] Is the table **referred to in the text**?
+[ ] Is the table **necessary**?
+[ ] Is the entire table **single- or double-spaced** (including the title, headings, and notes)?
+[ ] Is the **title brief but explanatory**?
+[ ] Does every column have a **column heading**?
+[ ] Are all **abbreviations** and **special symbols explained**?
+[ ] Is the table **referred to in the text**?
 
 #### 10. Get feedback to reduce, reuse, and recycle the story
 
