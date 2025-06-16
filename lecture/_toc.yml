@@ -8,12 +8,12 @@ parts:
 parts:
 - caption: Digital Literacy in Research 
   chapters:
-  - file: content/planning/intro # hierunter dann "section:" und darunter neue Zeile: "- file: "
-  - file: content/literature/intro
-  - file: content/data-management/intro
-  - file: content/analysis/intro
-  - file: content/writing/scientific_paper
-  - file: content/communication/intro
+  - file: ../content/planning/intro # hierunter dann "section:" und darunter neue Zeile: "- file: "
+  - file: ../content/literature/intro
+  - file: ../content/data-management/intro
+  - file: ../content/analysis/intro
+  - file: ../content/writing/scientific_paper
+  - file: ../content/communication/intro
 parts:
 - caption: Advanced Information 
   chapters:
