@@ -91,7 +91,7 @@ In the following section, we'll introduce **general writing principles** to **op
 > **Examples**
 >
 > ✅ Mindfulness Training Reduces Test Anxiety in Undergraduate Students: Evidence from a Randomized Controlled Trial <br>
-> :x: Mindfulness Eliminates Academic Stress and Boosts Performance Across All Students
+> ✖️ Mindfulness Eliminates Academic Stress and Boosts Performance Across All Students
 
 #### 2. Write for flesh-and-blood human beings who do not know your work
 
