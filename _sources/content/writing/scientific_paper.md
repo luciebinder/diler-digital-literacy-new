@@ -127,7 +127,7 @@ The C-C-C scheme defines the structure of the paper on multiple scales:
 
 The C-C-C scheme produces texts aimed at more patient readers who take their time to engage and interact with a text.
 
-> **Know your audience!** :point_up: <br>
+> **Know your audience!** ☝️ <br>
 > It's best to generally avoid writing for impatient readers. We'll have to rely on the title and abstract for this, but these can be caught by presenting the most exciting content first while necessarily following up with important context to remain credible.
 
 #### 4. Optimize your logical flow by avoiding zig-zag and using parallelism
@@ -305,7 +305,14 @@ Writing can be seen as an **optimization problem**, meaning, quite often, multip
 > - some or all aspects can be **continuously improved**
 > - **rewriting is often faster** than cumbersome editing
 
-It's important to always check if further work is necessary to find violations of good writing; you can use the table below as a checklist for this purpose.
+It's important to always check if further work is necessary to find violations of good writing; 
+If some of the points below are true for your paper, just go back to the linked rules to improve your paper (the checklist is based on the paper by [Mensh & Kording](https://doi.org/10.1371/journal.pcbi.1005619)).
+
+- [ ] Readers cannot give a 1-sentence summary. [(rule 1)](https://luciebinder.github.io/diler-digital-literacy-new/content/writing/scientific_paper.html#focus-your-paper-on-a-central-contribution-which-you-communicate-in-the-title)
+- [ ] Readers don't "get" the paper. [(rule 2)](https://luciebinder.github.io/diler-digital-literacy-new/content/writing/scientific_paper.html#write-for-flesh-and-blood-human-beings-who-do-not-know-your-work)
+- [ ] Readers ask why something matters or what it means. [(rule 3)](https://luciebinder.github.io/diler-digital-literacy-new/content/writing/scientific_paper.html#stick-to-the-context-content-conclusion-c-c-c-scheme)
+- [ ] Readers stumble on a small section of the text. [(rule 4)](https://luciebinder.github.io/diler-digital-literacy-new/content/writing/scientific_paper.html#optimize-your-logical-flow-by-avoiding-zig-zag-and-using-parallelism)
+- [ ] Readers cannot give the "elevator pitch" of your work after reading it. [(rule 5)](https://luciebinder.github.io/diler-digital-literacy-new/content/writing/scientific_paper.html#tell-a-comp)
 
 Writing is further not something that is done in isolation; it is essential to **ask for input/feedback from multiple people**:
 
