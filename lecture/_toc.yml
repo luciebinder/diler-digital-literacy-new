@@ -5,16 +5,14 @@ parts:
   chapters:
   - file: general_information/overview
   - file: general_information/intro
-parts:
 - caption: Digital Literacy in Research 
   chapters:
-  - file: ../content/planning/intro # hierunter dann "section:" und darunter neue Zeile: "- file: "
-  - file: ../content/literature/intro
-  - file: ../content/data-management/intro
-  - file: ../content/analysis/intro
-  - file: ../content/writing/scientific_paper
-  - file: ../content/communication/intro
-parts:
+  - file: content/planning/intro # hierunter dann "section:" und darunter neue Zeile: "- file: "
+  - file: content/literature/intro
+  - file: content/data-management/intro
+  - file: content/analysis/intro
+  - file: content/writing/scientific_paper.md
+  - file: content/communication/intro
 - caption: Advanced Information 
   chapters:
   - file: content/advanced/intro
