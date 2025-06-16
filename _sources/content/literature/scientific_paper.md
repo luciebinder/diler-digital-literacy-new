@@ -62,7 +62,7 @@ The following is a typical structure for a scientific paper:
 > - **Review** and **revise** your work several times before submitting it
 > - Pay attention to **grammar**, **spelling**, and **formatting**.
 
-### 10 rules on structuring your paper
+## 10 rules on structuring your paper
 
 Writing a good paper takes time and practice. We'll summarize the most important points of a paper by **[Mensh & Kording (2017)](https://doi.org/10.1371/journal.pcbi.1005619)** providing **rules for scientific writing**. 
 
@@ -75,11 +75,11 @@ We'll go over
 
 You can also find a checklist for your scientific writing based on **[Mensh & Kording (2017)](https://doi.org/10.1371/journal.pcbi.1005619)** here.
 
-#### Principles (Rules 1–4)
+### Principles (Rules 1–4)
 
 In the following section, we'll introduce **general writing principles** to **optimize the reader’s experience** and **effectively communicate the aims of our work**.
 
-##### 1. Focus your paper on a central contribution, which you communicate in the title
+#### 1. Focus your paper on a central contribution, which you communicate in the title
 
 - A paper ideally aims to provide a **single contribution**
    - multiple contributions: tend to be less convincing and, therefore, **less memorable**
@@ -93,7 +93,7 @@ In the following section, we'll introduce **general writing principles** to **op
 > ✅ Mindfulness Training Reduces Test Anxiety in Undergraduate Students: Evidence from a Randomized Controlled Trial <br>
 > :x: Mindfulness Eliminates Academic Stress and Boosts Performance Across All Students
 
-##### 2. Write for flesh-and-blood human beings who do not know your work
+#### 2. Write for flesh-and-blood human beings who do not know your work
 
 You, as the writer, will be the expert on your work, but we'll have to assume that readers may possibly be naive to the work or field. <br>
 Therefore, we need to consider the following:
@@ -109,152 +109,165 @@ Therefore, we need to consider the following:
         - 2-3 abbreviations in total, write out the first time with the abbreviation in **()**
     - **avoid using different words for the same concept/thing** :arrow_right: confuses the reader
 
-3. Stick to the context-content-conclusion (C-C-C) scheme
+#### 3. Stick to the context-content-conclusion (C-C-C) scheme
 
-Scientific papers benefit from being written in a classical story structure with a discernible beginning, a well-defined body, and a conclusive end. Therefore, we make use of the context-content-conclusion (C-C-C) scheme.
+Scientific papers benefit from being written in a classical story structure with a discernible beginning, a well-defined body, and a conclusive end. Therefore, we make use of the **context-content-conclusion (C-C-C)** scheme.
 
 The C-C-C scheme defines the structure of the paper on multiple scales:
 
-for the whole paper:
+1. for the *whole paper*:
+- introduction = **context**
+- methods/results = body/**content**
+- discussion =  **conclusion**
 
-    - introduction = context
-    - methods/results = body
-    - discussion =  conclusion
-
-for each paragraph:
-
-    - first sentence = defines the topic or context
-    - body = novel content put forth for the reader’s consideration
-    - last sentence = provides the conclusion to be remembered
+2. for *each paragraph*:
+- first sentence = defines the topic or **context**
+- body = novel **content** put forth for the reader’s consideration
+- last sentence = provides the **conclusion** to be remembered
 
 The C-C-C scheme produces texts aimed at more patient readers who take their time to engage and interact with a text.
 
-It's best to generally avoid writing for impatient readers. We'll have to rely on the title and abstract for this, but these can be caught by presenting the most exciting content first while necessarily following up with important context to remain credible.
-4. Optimize your logical flow by avoiding zig-zag and using parallelism
+> **Know your audience!** :point_up: <br>
+> It's best to generally avoid writing for impatient readers. We'll have to rely on the title and abstract for this, but these can be caught by presenting the most exciting content first while necessarily following up with important context to remain credible.
+
+#### 4. Optimize your logical flow by avoiding zig-zag and using parallelism
 
 Avoid zig-zag through your story:
 
-- only the central idea should be touched upon multiple times
-- minimize the number of subject changes
-- string related paragraphs together without interruptions by unrelated materials
+- only the **central idea should be touched upon multiple times**
+- **minimize** the number of **subject changes**
+- **string related paragraphs together** without interruptions by unrelated materials
 
-Instead, make use of parallelism to provide structure.
+Instead, make use of **parallelism** to provide structure:
 
-- parallel messages -> parallel form -> easier for reader
-- communicate different points of an overarching topic using the same syntax
+- parallel messages ➡️ parallel form ➡️ easier for reader
+- communicate **different points of an overarching topic using the same syntax**
 
-    -e.g.    
-    Introduction: 
-        Hypothesis 1
-        Hypothesis 2
-        Hypothesis 3
-    
-    Methods:
-        Analysis 1 -> Hypothesis 1
-        Analysis 2 -> Hypothesis 2
-        Analysis 3 -> Hypothesis 3
+> ✅
+> 
+> Introduction: 
+>
+> - Hypothesis 1
+> - Hypothesis 2
+> - Hypothesis 3
+>
+> Methods:
+>
+> Analysis 1 ➡️ Hypothesis 1
+> Analysis 2 ➡️ Hypothesis 2
+> Analysis 3 ➡️ Hypothesis 3
+>
+> Conclusion:
+>
+> conclusion 1 ➡️ Hypothesis 1
+> conclusion 2 ➡️ Hypothesis 2
+> conclusion 3 ➡️ Hypothesis 3
         
-    Conclusion:
-        conclusion 1 -> Hypothesis 1
-        conclusion 2 -> Hypothesis 2
-        conclusion 3 -> Hypothesis 3
-        
 
-The components of a paper (Rules 5–8)
+### The components of a paper (Rules 5–8)
 
-Components (Abstract, introduction, etc.) have different objectives; therefore, the specifics of their C-C-C structure necessarily differ. The following will discuss the specifics of these differences.
-5. Tell a complete story in the abstract
+Components (abstract, introduction, etc.) have different objectives; therefore, the specifics of their **C-C-C structure** necessarily differ. The following will discuss the specifics of these differences.
 
-Quite often, the abstract is the only part that will be read; therefore, it must efficiently convey the entire message of the paper.
+#### 5. Tell a complete story in the abstract
 
-logo
+Quite often, the abstract is the **only part that will be read**; therefore, it must **efficiently convey the entire message of the paper**.
 
-The C-C-C-scheme is again highly conserved in the abstract
+The **C-C-C-scheme** is again highly conserved in the abstract
 
-- context = First sentence
-    - introducing the broader field and the specific research question of study, 
-    - distinguish given paper from current state-of-the-art -> the specific gap
-    - why does it matter -> connection between the specific gap and the broader context
+- **context** = First sentence:
+    - introducing the **broader field** and the **specific research question of study** 
+    - distinguish given paper from current state-of-the-art ➡️ the **specific gap**
+    - why does it matter ➡️ **connection between the specific gap and the broader context**
 
-- content: 
-    - describe the method/approach used to fill the gap 
-    - executive summary of results
+- **content**: 
+    - describe the **method/approach** used to fill the gap 
+    - executive **summary of results**
 
-- conclusion: Last sentence
-    - interpret results to answer question(s) posed in context
-    - how do results impact the broader field -> “broader significance”
+- **conclusion** = Last sentence
+    - interpret results to **answer question(s) posed in context**
+    - how do results **impact the broader field** ➡️ “broader significance”
     
     
 
-6. Communicate why the paper matters in the introduction
+#### 6. Communicate why the paper matters in the introduction
 
-This section flows from a broad introduction to the specific problem(s), highlighting a gap in knowledge/methods and why this gap is important, to progressively more specific paragraphs to reach a clear exposition of what is missing and, in subsequent paragraphs, how the paper aims to address the problem.
+This section flows **from a broad introduction to the specific problem(s)**, highlighting a **gap in knowledge/methods** and **why this gap is important**, to progressively more specific paragraphs to **reach a clear exposition of what is missing** and, in subsequent paragraphs, how the paper aims to address the problem.
 
 Work from a
 
-    - field gap: e.g., language processing
-    - subfield gap: speech processing
-    - gap within the subfield that you will fill: influence of speech rhythm on neural rhythms
+1. field gap: e.g., language processing
+2. subfield gap: speech processing
+3. gap within the subfield that you will fill: influence of speech rhythm on neural rhythms
 
-Each introduction paragraph should further develop the gap from context to content to conclusion.
+Each introduction paragraph should further **develop the gap from context to content to conclusion**.
 
-    - context = orient the reader
-    - content = outline the “knowns” 
-    - conclusion = critical “unknown”
+- **context** = orient the reader
+- **content** = outline the “knowns” 
+- **conclusion** = critical “unknown”
 
-Further, make sure to include clues related to the gaps that lead into or prime reader for your hypothesis and method sections.
-7. Deliver the results as a sequence of statements, supported by figures, that connect logically to support the central contribution
+Further, make sure to include **clues related to the gaps** that lead into or **prime reader for your hypothesis and method sections**.
 
-Aim to convince the reader that the claims in the abstract and the following conclusion are supported by data and logic.
+#### 7. Deliver the results as a sequence of statements, supported by figures, that connect logically to support the central contribution
 
-The first paragraph summarizes the overall approach used to address the problem outlined in the introduction and sketches out the logical structure of how the results support the claims.
+Aim to convince the reader that the **claims in the abstract and the following conclusion are supported by data and logic**.
 
-Ideally, these are converted into a sequence of declarative statements on the highlighted gap in knowledge/methods and why the researchers are addressing them in a clear progression of logical steps. These statements can then be used as the names of the headers of subsections and titles of figures in the following paragraphs.
+The first paragraph 
+
+- **summarizes the overall approach** used to address the problem outlined in the introduction
+- sketches out the **logical structure** of how the results support the claims.
+
+Ideally, these are converted into a **sequence of declarative statements** on the highlighted gap in knowledge/methods and why the researchers are addressing them in a clear progression of logical steps. These **statements** can then be used as the **names of the headers of subsections** and **titles of figures** in the following paragraphs.
 
 All subsequent paragraphs should follow the structure of:
 
-- context = setup questions paragraph answers
-- content: data/logic
-- conclusion: answer the question
+- **context**: setup the *questions* that the paragraph answers
+- **content**: *data/logic*
+- **conclusion**: *answer* the question
 
-In this section, figures, tables, and titles are particularly important, as these are the most “objective support” towards claims. They should be highlighted as such and be clear, concise, and readable.
-8. Discuss how the gap was filled, the limitations of the interpretation, and the relevance to the field
+In this section, **figures, tables, and titles** are particularly important, as these are the most “objective support” towards claims. 
 
-The discussion aims to explain how the results have filled the gap identified in the introduction, provide caveats to our interpretations, and describe how the findings advance the field. Overall, provide a step-by-step outline to put the conclusions of the paper into context.
+They should be **highlighted** as such and be **clear, concise, and readable**.
 
-The structure should roughly follow:
+#### 8. Discuss how the gap was filled, the limitations of the interpretation, and the relevance to the field
+
+The discussion aims to explain how the **results have filled the gap identified in the introduction**, provide **caveats to our interpretations**, and **describe how the findings advance the field**. 
+
+Overall, provide a **step-by-step outline to put the conclusions of the paper into context**.
+
+The structure should roughly as following:
 
 First paragraph:
 
-    - general summary of findings (from results section)
+- general **summary of findings** (from results section)
 
 Second to penultimate paragraph:
 
-    - describe the area of weakness or strength linking to relevant literature
-    - perceive contributions/discuss future directions to extend it
-    - how can literature alleviate concerns or future experiments address them
+- describe the **area of weakness or strength** linking to **relevant literature**
+- perceive **contributions/discuss future directions** to extend it
+- how can **literature alleviate concerns or future experiments address them**
 
 Last paragraph:
 
-    - description of how paper moves field forwards
+ - description of **how paper moves field forwards**
 
-Process (Rules 9 and 10)
+### Process (Rules 9 and 10)
 
-Let's introduce some helpful processes and habits to maximize impact and minimize investing time into less important aspects of the writing process.
-9. Allocate time where it matters: Title, abstract, figures, and outlining
+Let's introduce some helpful processes and habits to **maximize impact** and **minimize investing time into less important aspects of the writing process**.
 
-It's paramount to emphasize the central logic that underlies the scientific claim, the main message of the paper. Reflections on the logic behind the paper connect the experimental phase with the paper-writing phase.
+#### 9. Allocate time where it matters: Title, abstract, figures, and outlining
+
+It's paramount to emphasize the **central logic** that underlies the scientific claim, the **main message** of the paper. Reflections on the logic behind the paper connect the experimental phase with the paper-writing phase.
 
 You should aim to:
 
-allocate time based on presumptive importance.
+- allocate time based on presumptive importance
 
-- title, abstract, figures vs. rest/methods (not ideal but unfortunately the default for most readers)
+    - **title, abstract, figures** vs. rest/methods (not ideal but unfortunately the default for most readers)
 
-plan before producing
+Plan before producing
 
-- make an outline
-- informal sentence for each planned paragraph
+- make an **outline**
+  - informal sentence for each planned paragraph
 - (potentially) start the process around the description of each result
 - each paragraph has a defined role ideally defined at the outline stage
 
@@ -265,7 +278,8 @@ So before investing time, consider the following:
 | Figures | Tables
 |---|--- | 1. Is the figure necessary? | 1. Is the table necessary? | 2. Is the figure simple, clean, and free of extraneous detail?| 2. Is the entire table single- or double-spaced (including the title, headings, and notes)?
 | 3. Is the data plotted accurately? | 3. Is the title brief but explanatory? | 4. Are all axes named correctly?| 4. Does every column have a column heading? | 5. Are parallel figures or equally important figures prepared according to the same scale? | 5. Are all abbreviations and special symbols explained? | 6. Are all abbreviations and special symbols explained? | 6. Is the table referred to in the text? | 7. Is the figure referred to in the text? |
-10. Get feedback to reduce, reuse, and recycle the story
+
+#### 10. Get feedback to reduce, reuse, and recycle the story
 
 Writing can be seen as an optimization problem, meaning, quite often, multiple iterations are necessary. Accept that this is ok and usually what we want as:
 
