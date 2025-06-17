@@ -12,6 +12,7 @@ parts:
   - file: content/data-management/intro
   - file: content/analysis/intro
   - file: content/writing/scientific_paper.md
+  - file: content/writing/digital_tools.md
   - file: content/communication/intro
 - caption: Advanced Information 
   chapters:
