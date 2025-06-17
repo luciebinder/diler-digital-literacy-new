@@ -49,7 +49,7 @@ The following is a typical structure for a scientific paper:
 
 - List the **sources cited** in the paper in a **consistent format** (e.g., APA, MLA).
 
-````{dropdown} Tips for Junior Scientists 💁
+```{dropdown} Tips for Junior Scientists 💁
  - Be **concise** and **to the point**
  - Avoid **unnecessary words/phrases**
  - Use **clear** and **simple language**
@@ -60,7 +60,7 @@ The following is a typical structure for a scientific paper:
     - if you state a fact, you gotta have the receipts
  - **Review** and **revise** your work several times before submitting it
  - Pay attention to **grammar**, **spelling**, and **formatting**.
-````
+```
 
 ## 10 rules on structuring your paper
 
@@ -127,9 +127,9 @@ The C-C-C scheme defines the structure of the paper on multiple scales:
 
 The C-C-C scheme produces texts aimed at more patient readers who take their time to engage and interact with a text.
 
-````{dropdown} Know your audience! ☝️
+```{dropdown} Know your audience! ☝️
 It's best to generally avoid writing for impatient readers. We'll have to rely on the title and abstract for this, but these can be caught by presenting the most exciting content first while necessarily following up with important context to remain credible.
-````
+```
 
 #### 4. Optimize your logical flow by avoiding zig-zag and using parallelism
 
@@ -277,24 +277,28 @@ Figures and tables take time to be designed and implemented well.
 
 So before investing time, consider the following:
 
+```{card}
 **Figures** 📶
+^^^
+- Is the figure **necessary**?
+- Is the figure **simple, clean, and free of extraneous detail**?
+- Is the data **plotted accurately**?
+- Are all **axes named correctly**?
+- Are parallel figures or equally important figures prepared according to the same scale?
+- Are all abbreviations and special symbols explained?
+- Is the figure **referred to in the text**?
+```
 
-- [ ] Is the figure **necessary**?
-- [ ] Is the figure **simple, clean, and free of extraneous detail**?
-- [ ] Is the data **plotted accurately**?
-- [ ] Are all **axes named correctly**?
-- [ ] Are parallel figures or equally important figures prepared according to the same scale?
-- [ ] Are all abbreviations and special symbols explained?
-- [ ] Is the figure **referred to in the text**?
-
+```{card}
 **Tables** 🔠
-
-- [ ] Is the table **necessary**?
-- [ ] Is the entire table **single- or double-spaced** (including the title, headings, and notes)?
-- [ ] Is the **title brief but explanatory**?
-- [ ] Does every column have a **column heading**?
-- [ ] Are all **abbreviations** and **special symbols explained**?
-- [ ] Is the table **referred to in the text**?
+^^^
+- Is the table **necessary**?
+- Is the entire table **single- or double-spaced** (including the title, headings, and notes)?
+- Is the **title brief but explanatory**?
+- Does every column have a **column heading**?
+- Are all **abbreviations** and **special symbols explained**?
+- Is the table **referred to in the text**?
+```
 
 #### 10. Get feedback to reduce, reuse, and recycle the story
 
@@ -313,16 +317,16 @@ If some of the points below are true for your paper, just go back to the linked 
 ````{card}
 **Checklist for writing your paper**
 ^^^
-- [ ] Readers cannot give a 1-sentence summary. [(rule 1)](https://luciebinder.github.io/diler-digital-literacy-new/content/writing/scientific_paper.html#focus-your-paper-on-a-central-contribution-which-you-communicate-in-the-title)
-- [ ] Readers don't "get" the paper. [(rule 2)](https://luciebinder.github.io/diler-digital-literacy-new/content/writing/scientific_paper.html#write-for-flesh-and-blood-human-beings-who-do-not-know-your-work)
-- [ ] Readers ask why something matters or what it means. [(rule 3)](https://luciebinder.github.io/diler-digital-literacy-new/content/writing/scientific_paper.html#stick-to-the-context-content-conclusion-c-c-c-scheme)
-- [ ] Readers stumble on a small section of the text. [(rule 4)](https://luciebinder.github.io/diler-digital-literacy-new/content/writing/scientific_paper.html#optimize-your-logical-flow-by-avoiding-zig-zag-and-using-parallelism)
-- [ ] Readers cannot give the "elevator pitch" of your work after reading it. [(rule 5)](https://luciebinder.github.io/diler-digital-literacy-new/content/writing/scientific_paper.html#tell-a-comp)
-- [ ] Readers show little interest in the paper. [(rule 6)](https://luciebinder.github.io/diler-digital-literacy-new/content/writing/scientific_paper.html#communicate-why-the-paper-matters-in-the-introduction)
-- [ ] Readers do not agree with your conclusion. [(rule 7)](https://luciebinder.github.io/diler-digital-literacy-new/content/writing/scientific_paper.html#deliver-the-results-as-a-sequence-of-statements-supported-by-figures-that-connect-logically-to-support-the-central-contribution)
-- [ ] Readers are left with unanswered criticism and/or questions on their mind. [(rule 8)](https://luciebinder.github.io/diler-digital-literacy-new/content/writing/scientific_paper.html#discuss-how-the-gap-was-filled-the-limitations-of-the-interpretation-and-the-relevance-to-the-field)
-- [ ] Readers struggle to understand your central contribution despite your having worked hard [(rule 9)](https://luciebinder.github.io/diler-digital-literacy-new/content/writing/scientific_paper.html#allocate-time-where-it-matters-title-abstract-figures-and-outlining)
-- [ ] The paper's contribution is rejected by test readers, editors, or reviewers [(rule 10)](https://luciebinder.github.io/diler-digital-literacy-new/content/writing/scientific_paper.html#get-feedback-to-reduce-reuse-and-recycle-the-story)
+- Readers cannot give a 1-sentence summary. [(rule 1)](https://luciebinder.github.io/diler-digital-literacy-new/content/writing/scientific_paper.html#focus-your-paper-on-a-central-contribution-which-you-communicate-in-the-title)
+- Readers don't "get" the paper. [(rule 2)](https://luciebinder.github.io/diler-digital-literacy-new/content/writing/scientific_paper.html#write-for-flesh-and-blood-human-beings-who-do-not-know-your-work)
+- Readers ask why something matters or what it means. [(rule 3)](https://luciebinder.github.io/diler-digital-literacy-new/content/writing/scientific_paper.html#stick-to-the-context-content-conclusion-c-c-c-scheme)
+- Readers stumble on a small section of the text. [(rule 4)](https://luciebinder.github.io/diler-digital-literacy-new/content/writing/scientific_paper.html#optimize-your-logical-flow-by-avoiding-zig-zag-and-using-parallelism)
+- Readers cannot give the "elevator pitch" of your work after reading it. [(rule 5)](https://luciebinder.github.io/diler-digital-literacy-new/content/writing/scientific_paper.html#tell-a-comp)
+- Readers show little interest in the paper. [(rule 6)](https://luciebinder.github.io/diler-digital-literacy-new/content/writing/scientific_paper.html#communicate-why-the-paper-matters-in-the-introduction)
+- Readers do not agree with your conclusion. [(rule 7)](https://luciebinder.github.io/diler-digital-literacy-new/content/writing/scientific_paper.html#deliver-the-results-as-a-sequence-of-statements-supported-by-figures-that-connect-logically-to-support-the-central-contribution)
+- Readers are left with unanswered criticism and/or questions on their mind. [(rule 8)](https://luciebinder.github.io/diler-digital-literacy-new/content/writing/scientific_paper.html#discuss-how-the-gap-was-filled-the-limitations-of-the-interpretation-and-the-relevance-to-the-field)
+- Readers struggle to understand your central contribution despite your having worked hard [(rule 9)](https://luciebinder.github.io/diler-digital-literacy-new/content/writing/scientific_paper.html#allocate-time-where-it-matters-title-abstract-figures-and-outlining)
+- The paper's contribution is rejected by test readers, editors, or reviewers [(rule 10)](https://luciebinder.github.io/diler-digital-literacy-new/content/writing/scientific_paper.html#get-feedback-to-reduce-reuse-and-recycle-the-story)
 ````
 
 Writing is further not something that is done in isolation; it is essential to **ask for input/feedback from multiple people**:
