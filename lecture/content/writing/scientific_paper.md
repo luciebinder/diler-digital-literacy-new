@@ -49,8 +49,7 @@ The following is a typical structure for a scientific paper:
 
 - List the **sources cited** in the paper in a **consistent format** (e.g., APA, MLA).
 
-```{dropdown} **Tips for Junior Scientists 💁**:
-
+````{dropdown} Tips for Junior Scientists 💁
  - Be **concise** and **to the point**
  - Avoid **unnecessary words/phrases**
  - Use **clear** and **simple language**
@@ -61,7 +60,7 @@ The following is a typical structure for a scientific paper:
     - if you state a fact, you gotta have the receipts
  - **Review** and **revise** your work several times before submitting it
  - Pay attention to **grammar**, **spelling**, and **formatting**.
-```
+````
 
 ## 10 rules on structuring your paper
 
@@ -128,8 +127,9 @@ The C-C-C scheme defines the structure of the paper on multiple scales:
 
 The C-C-C scheme produces texts aimed at more patient readers who take their time to engage and interact with a text.
 
-> **Know your audience!** ☝️ <br>
-> It's best to generally avoid writing for impatient readers. We'll have to rely on the title and abstract for this, but these can be caught by presenting the most exciting content first while necessarily following up with important context to remain credible.
+````{dropdown} Know your audience! ☝️
+It's best to generally avoid writing for impatient readers. We'll have to rely on the title and abstract for this, but these can be caught by presenting the most exciting content first while necessarily following up with important context to remain credible.
+````
 
 #### 4. Optimize your logical flow by avoiding zig-zag and using parallelism
 
