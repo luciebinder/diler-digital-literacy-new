@@ -49,18 +49,19 @@ The following is a typical structure for a scientific paper:
 
 - List the **sources cited** in the paper in a **consistent format** (e.g., APA, MLA).
 
->**Tips for Junior Scientists 💁**:
->
-> - Be **concise** and **to the point**
-> - Avoid **unnecessary words/phrases**
-> - Use **clear** and **simple language**
-> - Avoid **technical phrases** unless necessary
-> - Be **thorough** and **accurate** in reporting your results
-> - Include **all relevant data** and **any limitations** (it is better to cut later than to have to redo the work because you missed important implications)
-> - Support your claims and conclusions with **references as much as possible**
->     - if you state a fact, you gotta have the receipts
-> - **Review** and **revise** your work several times before submitting it
-> - Pay attention to **grammar**, **spelling**, and **formatting**.
+```{dropdown} **Tips for Junior Scientists 💁**:
+
+ - Be **concise** and **to the point**
+ - Avoid **unnecessary words/phrases**
+ - Use **clear** and **simple language**
+ - Avoid **technical phrases** unless necessary
+ - Be **thorough** and **accurate** in reporting your results
+ - Include **all relevant data** and **any limitations** (it is better to cut later than to have to redo the work because you missed important implications)
+ - Support your claims and conclusions with **references as much as possible**
+    - if you state a fact, you gotta have the receipts
+ - **Review** and **revise** your work several times before submitting it
+ - Pay attention to **grammar**, **spelling**, and **formatting**.
+```
 
 ## 10 rules on structuring your paper
 
@@ -143,26 +144,27 @@ Instead, make use of **parallelism** to provide structure:
 - parallel messages ➡️ parallel form ➡️ easier for reader
 - communicate **different points of an overarching topic using the same syntax**
 
-> ✅ **Parallelism**
-> 
-> Introduction: 
->
-> - Hypothesis 1
-> - Hypothesis 2
-> - Hypothesis 3
->
-> Methods:
->
-> Analysis 1 ➡️ Hypothesis 1
-> Analysis 2 ➡️ Hypothesis 2
-> Analysis 3 ➡️ Hypothesis 3
->
-> Conclusion:
->
-> conclusion 1 ➡️ Hypothesis 1
-> conclusion 2 ➡️ Hypothesis 2
-> conclusion 3 ➡️ Hypothesis 3
-        
+```{card}
+✅ **Parallelism**
+^^^
+ Introduction: 
+
+ - Hypothesis 1
+ - Hypothesis 2
+ - Hypothesis 3
+
+ Methods:
+
+ Analysis 1 ➡️ Hypothesis 1
+ Analysis 2 ➡️ Hypothesis 2
+ Analysis 3 ➡️ Hypothesis 3
+
+ Conclusion:
+
+ conclusion 1 ➡️ Hypothesis 1
+ conclusion 2 ➡️ Hypothesis 2
+ conclusion 3 ➡️ Hypothesis 3
+```        
 
 ### The components of a paper (Rules 5–8)
 
