@@ -319,7 +319,8 @@ If some of the points below are true for your paper, just go back to the linked 
 - [ ] Readers show little interest in the paper. [(rule 6)](https://luciebinder.github.io/diler-digital-literacy-new/content/writing/scientific_paper.html#communicate-why-the-paper-matters-in-the-introduction)
 - [ ] Readers do not agree with your conclusion. [(rule 7)](https://luciebinder.github.io/diler-digital-literacy-new/content/writing/scientific_paper.html#deliver-the-results-as-a-sequence-of-statements-supported-by-figures-that-connect-logically-to-support-the-central-contribution)
 - [ ] Readers are left with unanswered criticism and/or questions on their mind. [(rule 8)](https://luciebinder.github.io/diler-digital-literacy-new/content/writing/scientific_paper.html#discuss-how-the-gap-was-filled-the-limitations-of-the-interpretation-and-the-relevance-to-the-field)
-
+- [ ] Readers struggle to understand your central contribution despite your having worked hard [(rule 9)](https://luciebinder.github.io/diler-digital-literacy-new/content/writing/scientific_paper.html#allocate-time-where-it-matters-title-abstract-figures-and-outlining)
+- [ ] The paper's contribution is rejected by test readers, editors, or reviewers [(rule 10)](https://luciebinder.github.io/diler-digital-literacy-new/content/writing/scientific_paper.html#get-feedback-to-reduce-reuse-and-recycle-the-story)
 ````
 
 Writing is further not something that is done in isolation; it is essential to **ask for input/feedback from multiple people**:
