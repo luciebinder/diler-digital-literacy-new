@@ -34,11 +34,11 @@ Google Docs allows multiple users to **edit the same document in real-time**, ma
  Google Docs keeps a **record of all changes** made to a document, so you can easily go back and **view previous versions**. You can also compare different versions of a document side by side.
 ```
 
-```{dropdwon} **templates** 🖼️
+```{dropdown} **templates** 🖼️
 Google Docs includes a variety of templates for different types of documents, such as **resumes**, **letters**, and **reports**. You can use these templates to quickly create professional-looking documents with a consistent look and feel.
 ```
 
-```{dropdwon} **add-ons** ➕
+```{dropdown} **add-ons** ➕
 Google Docs has a large library of add-ons that can be installed to add **extra functionality** to your documents. For example, you can install an add-on to add a table of contents or another to create charts and graphs.
 ```
 
