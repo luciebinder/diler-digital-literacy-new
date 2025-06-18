@@ -86,20 +86,29 @@ There are plenty of digital tools to manage citations and references; **every ac
 To make sure you’re not accidentally copying others’ work, you can use a **plagiarism checker**, such as [Scribbr](https://www.scribbr.com/plagiarism-checker/).
 ```
 
-Beyond docs: Formatting, LaTEX, and Overleaf?
+## Beyond docs: Formatting, LaTEX, and Overleaf?
 
-Sometimes, it becomes necessary to have complete control over the look of a document; sometimes, certain journals will ask to provide manuscripts via a .tex file.
+Sometimes, it becomes necessary to have complete control over the look of a document; sometimes, certain journals will ask to provide manuscripts via a **.tex** file.
 
-Both involve knowledge of LaTeX (pronounced “Lah-tech”).
+Both involve knowledge of [**LaTeX**](https://www.latex-project.org/) (pronounced “Lah-tech”).
 
-LaTeX is a powerful and flexible typesetting language that allows users to have complete control over the format of a document. Unlike traditional word processors, which can often be limiting in terms of formatting options, LaTeX provides the ability to create beautiful and professional-looking documents with ease. This is particularly useful for academic papers, where formatting requirements can be strict and complex. However, LaTeX is not just limited to academic papers; it can also be used to create CVs, resumes, and other types of documents.
+LaTeX is a **powerful** and **flexible** typesetting language that allows users to have **complete control** over the format of a document. 
 
-LaTeX is, at times, still the preferred tool for many publishers and academic institutions. Additionally, because LaTeX allows for such fine-grained control over formatting, it can help to ensure that papers meet specific style requirements for different publications.
+Unlike traditional word processors, which can often be limiting in terms of formatting options, LaTeX provides the ability to **create beautiful** and **professional-looking documents** with ease. 
 
-However, learning LaTeX from the ground up can be time-consuming and challenging, which is why platforms like Overleaf are becoming increasingly popular.
-Overleaf
+This is particularly useful for **academic papers**, where **formatting requirements** can be **strict** and **complex**. 
 
-Overleaf is a powerful collaborative platform designed to simplify the process of creating and sharing academic documents. It offers a range of tools and features that make it easy for individuals and teams to write, edit, and collaborate on documents in real time. With Overleaf, you can focus on the content of your document while the platform takes care of formatting and layout.
+However, LaTeX is not just limited to academic papers; it can also be used to **create CVs**, **resumes**, and other **types of documents**.
+
+LaTeX is, at times, still the **preferred tool** for many publishers and academic institutions. 
+
+Additionally, because LaTeX allows for such **fine-grained control over formatting**, it can help to ensure that papers **meet specific style requirements for different publications**.
+
+However, learning LaTeX from the ground up can be **time-consuming** and **challenging**, which is why platforms like **Overleaf** are becoming increasingly popular.
+
+### Overleaf
+
+[**Overleaf**](https://www.overleaf.com/) is a powerful collaborative platform designed to simplify the process of creating and sharing academic documents. It offers a range of tools and features that make it easy for individuals and teams to write, edit, and collaborate on documents in real time. With Overleaf, you can focus on the content of your document while the platform takes care of formatting and layout.
 
 png depicting the file structure of the course template repository
 
