@@ -108,16 +108,32 @@ However, learning LaTeX from the ground up can be **time-consuming** and **chall
 
 ### Overleaf
 
-[**Overleaf**](https://www.overleaf.com/) is a powerful collaborative platform designed to simplify the process of creating and sharing academic documents. It offers a range of tools and features that make it easy for individuals and teams to write, edit, and collaborate on documents in real time. With Overleaf, you can focus on the content of your document while the platform takes care of formatting and layout.
+[**Overleaf**](https://www.overleaf.com/) is a **powerful collaborative platform** designed to **simplify** the process of **creating** and **sharing academic documents**. It offers a range of tools and features that make it easy for individuals and teams to **write**, **edit**, and **collaborate** on documents in real time. 
+
+With Overleaf, you can focus on the content of your document while the platform takes care of formatting and layout.
 
 png depicting the file structure of the course template repository
 
-One of the main benefits of Overleaf is its ability to streamline the writing process, allowing you to work more efficiently and effectively. The platform offers a wide range of templates and tools that help you create high-quality documents quickly and easily. There are templates available for a wide range of document types, including academic papers, CVs, and resumes, as well as a variety of styles and formats to choose from.
+One of the main benefits of Overleaf is its ability to **streamline the writing process**, allowing you to work more **efficiently** and **effectively**. 
 
-Additionally, Overleaf provides a range of collaboration tools that allow users to work together on a document in real-time, making it easy to share feedback and ideas and provides a secure and reliable platform for sharing and publishing your work. With built-in version control and easy integration with a range of popular publishing platforms, you can be confident that your work is safe and accessible to others.
+The platform offers a **wide range of templates** and **tools** that help you create **high-quality documents** **quickly** and **easily**. 
 
-In summary, Overleaf is an excellent platform for academics and researchers looking to streamline their writing process, collaborate with others, and share their work with a wider audience.
-Working with Overleaf
+There are templates available for a wide range of document types, including 
+- academic papers
+- CVs
+- resumes
+- variety of styles and formats to choose from
+
+Additionally, Overleaf provides a **range of collaboration tools** that allow users to work together on a document in **real-time**, making it easy to **share feedback** and ideas and provides a secure and reliable platform for sharing and publishing your work. 
+
+With **built-in version control** and easy integration with a range of popular publishing platforms, you can be confident that your work is **safe** and **accessible to others**.
+
+In summary, Overleaf is an **excellent platform** for **academics** and **researchers** looking to
+- streamline their writing process
+- collaborate with others
+- share their work with a wider audience
+
+#### Working with Overleaf
 
 To get started with Overleaf, it’s best to find a template via the template library.
 
