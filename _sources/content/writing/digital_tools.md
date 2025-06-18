@@ -29,21 +29,29 @@ The key features Google Docs offers are
 ```{dropdown} **Collaborative Editing 👥**
 Google Docs allows multiple users to **edit the same document in real-time**, making it easy for teams to **work together on a project**. You can invite people to **view**, **comment**, or **edit** a document and see **who is making changes in real time**. It also makes it easier to keep track of contributions, as you can suggest edits instead of simply rewriting or adding text to others’ documents.
 ```
+
 ```{dropdown} integrated **version history**⏰
  Google Docs keeps a **record of all changes** made to a document, so you can easily go back and **view previous versions**. You can also compare different versions of a document side by side.
 ```
+
 ```{dropdwon} **templates** 🖼️
 Google Docs includes a variety of templates for different types of documents, such as **resumes**, **letters**, and **reports**. You can use these templates to quickly create professional-looking documents with a consistent look and feel.
 ```
+
 ```{dropdwon} **add-ons** ➕
 Google Docs has a large library of add-ons that can be installed to add **extra functionality** to your documents. For example, you can install an add-on to add a table of contents or another to create charts and graphs.
 ```
+
 This leads to 
 
 ```{dropdown} increased **accessibility** of your work
 Google Docs is accessible from anywhere with an internet connection, making it easy for team members to work together from different locations.
 ```
+
+```{dropdown} increased **productivity**
+Google Docs’ version history and commenting system make it easier for teams to keep track of changes, provide feedback, and make decisions. Add-ons and templates can further help you spend less time on editing, etc., leading to increased productivity.
 ```
+
 - increased **productivity**
 - improved **communication**
 
