@@ -42,7 +42,7 @@ Google Docs includes a variety of templates for different types of documents, su
 Google Docs has a large library of add-ons that can be installed to add **extra functionality** to your documents. For example, you can install an add-on to add a table of contents or another to create charts and graphs.
 ```
 
-This leads to 
+This leads to ➡️
 
 ```{dropdown} increased **accessibility** of your work
 Google Docs is accessible from anywhere with an internet connection, making it easy for team members to work together from different locations.
@@ -52,39 +52,39 @@ Google Docs is accessible from anywhere with an internet connection, making it e
 Google Docs’ version history and commenting system make it easier for teams to keep track of changes, provide feedback, and make decisions. Add-ons and templates can further help you spend less time on editing, etc., leading to increased productivity.
 ```
 
-- increased **productivity**
-- improved **communication**
+```{dropdown} improved **communication**
+Google Docs’ commenting system allows team members to communicate directly within a document, improving the flow of communication and reducing the need for separate email exchanges.
+```
 
-Accessibility: Google Docs is accessible from anywhere with an internet connection, making it easy for team members to work together from different locations.
-
-Increased Productivity: Google Docs’ version history and commenting system make it easier for teams to keep track of changes, provide feedback, and make decisions. Add-ons and templates can further help you spend less time on editing, etc., leading to increased productivity.
-
-Improved Communication: Google Docs’ commenting system allows team members to communicate directly within a document, improving the flow of communication and reducing the need for separate email exchanges.
-
-Add-Ons for Google Docs:
+## Add-Ons for Google Docs:
 
 Save some time and sanity by implementing the following tools into your workflow!
 
-Adding new extensions to Google Docs is trivial; simply click on Extensions -> Add ons -> Get add-ons and use the search bar to find new add-ons. Alternatively, some tools offer browser-based solutions; simply follow the installation tutorials provided in the following selection of examples.
+Adding new extensions to Google Docs is trivial; 
 
-Grammar, Spelling, formatting, as well as phrasing:
+simply click on **Extensions** ➡️ **Add ons** ➡️ **Get add-ons** and use the search bar to **find new add-ons**. 
 
-    Grammarly
+Alternatively, some tools offer browser-based solutions; simply follow the installation tutorials provided in the following selection of examples.
 
-Productivity/Motivation:
+```{dropdown} Grammar, Spelling, formatting, as well as phrasing
+[Grammarly](https://www.grammarly.com/google-docs)
+```
 
-    Ishouldbewriting
+```{dropdown} Productivity/Motivation
+[ishouldbewriting](https://ishouldbewriting.net/about)
+```
 
-Revisions/Text-to-speech:
+```{dropdown} Revisions/Text-to-speech
+[Speechify](https://speechify.com/blog/google-docs-read-me/?landing_url=https%3A%2F%2Fspeechify.com%2Fblog%2Fgoogle-docs-read-me%2F)
+```
 
-    Specifiy
+```{dropdown} Managing References/Citations
+There are plenty of digital tools to manage citations and references; **every academic project** you’re starting should have **its own maintained project library**. For more info on how to use citation software and manage your library, check out the chapter on Project design. Commonly, you’ll be asked to follow a specific citation and referencing style, e.g., the **American Psychological Association (APA) 7. th Ed.**. Most citation software tools automatically style your in-line citations and references according to your needs.
+```
 
-Managing References/Citations:
-
-There are plenty of digital tools to manage citations and references; every academic project you’re starting should have its own maintained project library. For more info on how to use citation software and manage your library, check out the chapter on Project design. Commonly, you’ll be asked to follow a specific citation and referencing style, e.g., the American Psychological Association (APA) 7. th Ed.. Most citation software tools automatically style your in-line citations and references according to your needs.
-
-To make sure you’re not accidentally copying others’ work, you can use a plagiarism checker, such as Scribbr.
-
+```{dropdown} Plagiarism checker
+To make sure you’re not accidentally copying others’ work, you can use a **plagiarism checker**, such as [Scribbr](https://www.scribbr.com/plagiarism-checker/).
+```
 
 Beyond docs: Formatting, LaTEX, and Overleaf?
 
