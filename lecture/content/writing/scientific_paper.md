@@ -312,9 +312,9 @@ If some of the points below are true for your paper, just go back to the linked 
 ````{card}
 **Checklist for writing your paper**
 ^^^
-[ ] Readers cannot give a 1-sentence summary. [(rule 1)](https://luciebinder.github.io/diler-digital-literacy-new/content/writing/scientific_paper.html#focus-your-paper-on-a-central-contribution-which-you-communicate-in-the-title)  
-[ ] Readers don't "get" the paper. [(rule 2)](https://luciebinder.github.io/diler-digital-literacy-new/content/writing/scientific_paper.html#write-for-flesh-and-blood-human-beings-who-do-not-know-your-work)  
-[ ] Readers ask why something matters or what it means. [(rule 3)](https://luciebinder.github.io/diler-digital-literacy-new/content/writing/scientific_paper.html#stick-to-the-context-content-conclusion-c-c-c-scheme)  
+<input type="checkbox"> </input> Readers cannot give a 1-sentence summary. [(rule 1)](https://luciebinder.github.io/diler-digital-literacy-new/content/writing/scientific_paper.html#focus-your-paper-on-a-central-contribution-which-you-communicate-in-the-title)  
+ [ ] Readers don't "get" the paper. [(rule 2)](https://luciebinder.github.io/diler-digital-literacy-new/content/writing/scientific_paper.html#write-for-flesh-and-blood-human-beings-who-do-not-know-your-work)  
+- [ ] Readers ask why something matters or what it means. [(rule 3)](https://luciebinder.github.io/diler-digital-literacy-new/content/writing/scientific_paper.html#stick-to-the-context-content-conclusion-c-c-c-scheme)  
 [ ] Readers stumble on a small section of the text. [(rule 4)](https://luciebinder.github.io/diler-digital-literacy-new/content/writing/scientific_paper.html#optimize-your-logical-flow-by-avoiding-zig-zag-and-using-parallelism)  
 [ ] Readers cannot give the "elevator pitch" of your work after reading it. [(rule 5)](https://luciebinder.github.io/diler-digital-literacy-new/content/writing/scientific_paper.html#tell-a-comp)
 [ ] Readers show little interest in the paper. [(rule 6)](https://luciebinder.github.io/diler-digital-literacy-new/content/writing/scientific_paper.html#communicate-why-the-paper-matters-in-the-introduction)  
