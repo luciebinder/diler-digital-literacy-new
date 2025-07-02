@@ -17,16 +17,16 @@ The following is a typical structure for a scientific paper:
 ### 2. Introduction:
 
 - Establish a **state of knowledge**
-- summarize **previous findings**
-- bridge the **gap** between existing knowledge and current questions
-- state the **research question** clearly and explain why it is important
-- clearly state any **specific hypothesis**
+- Summarize **previous findings**
+- Bridge the **gap** between existing knowledge and current questions
+- State the **research question** clearly and explain why it is important
+- Clearly state any **specific hypothesis**
 
 ### 3. Methods:
 
 - Describe the **methods** and **procedures** used in the experiment, including any *equipment* and *materials* used
     - E.g., recruitment, inclusion/exclusion criteria, measures, hardware, procedure, design, analysis pipeline
-- be detailed enough that someone else could **reproduce the experiment**
+- Be detailed enough that someone else could **reproduce the experiment**
 
 ### 4. Results:
 
@@ -40,10 +40,10 @@ The following is a typical structure for a scientific paper:
 - Summarize the **main findings** and their significance
 - **Verdict on the hypothesis**
 - **Interpret** the results
-- **discuss their implications** in the context of previous research
-- **study limitations**
+- **Discuss their implications** in the context of previous research
+- Be transparent on the **study limitations**
   - validity, measurement error, design weaknesses
-- **recommendations** and **avenues for future research**
+- Provide **recommendations** and **avenues for future research**
 
 ### 6. References:
 
@@ -59,21 +59,21 @@ The following is a typical structure for a scientific paper:
  - Support your claims and conclusions with **references as much as possible**
     - if you state a fact, you gotta have the receipts
  - **Review** and **revise** your work several times before submitting it
- - Pay attention to **grammar**, **spelling**, and **formatting**.
+ - Pay attention to **grammar**, **spelling**, and **formatting**
 ```
 
-## 10 rules on structuring your paper
+## 10 rules for structuring your paper
 
 Writing a good paper takes time and practice. We'll summarize the most important points of a paper by **[Mensh & Kording (2017)](https://doi.org/10.1371/journal.pcbi.1005619)** providing **rules for scientific writing**. 
 
 These rules aim to introduce a frame of reference on how to get started with scientific writing, continuously improve, and avoid mistakes and frustrations.
 
 We'll go over 
-- **general principles regarding writing for an audience (rules 1 - 4)**
-- the **different components of a paper** and what they are each trying to communicate **(rules 5 - 8)**
-- some considerations for the **writing process itself (rules 9 - 10)**
+- **general principles regarding writing for an audience (rules 1 - 4)**,
+- the **different components of a paper** and what they are each trying to communicate **(rules 5 - 8)**, and
+- some considerations for the **writing process itself (rules 9 - 10)**.
 
-You can also find a checklist for your scientific writing based on **[Mensh & Kording (2017)](https://doi.org/10.1371/journal.pcbi.1005619)** here.
+You can also find a checklist for your scientific writing based on **[Mensh & Kording (2017)](https://doi.org/10.1371/journal.pcbi.1005619)** below.
 
 ### Principles (Rules 1–4)
 
@@ -95,19 +95,19 @@ In the following section, we'll introduce **general writing principles** to **op
 
 #### 2. Write for flesh-and-blood human beings who do not know your work
 
-You, as the writer, will be the expert on your work, but we'll have to assume that readers may possibly be naive to the work or field. <br>
+You, as the writer, will be the expert on your work, but we'll have to assume that readers may possibly be naive to the work or field.
 Therefore, we need to consider the following:
 
-- **quality** and how **clear** your writing is can be nearly impossible to judge work from the perspective of the naive reader
+- **Quality** and how **clear** your writing is can be nearly impossible to judge work from the perspective of the naive reader
 
-- an approach from the perspective of a naive reader means to make clear
-  1. **why do you need to understand/care about this problem**
-  2. **how the paper answers the problem/question** (ideally understandable with minimal effort)
+- An approach from the perspective of a naive reader means to make clear
+  1. **Why do you need to understand/care about this problem**
+  2. **How does the paper answer the problem/question** (ideally understandable with minimal effort)
 
-- **define technical terms** and **avoid abbreviations/acronyms** 
-    - adapt to the working memory constraints of humans
+- **Define technical terms** and **avoid abbreviations/acronyms** 
+    - Adapt to the working memory constraints of humans
         - 2-3 abbreviations in total, write out the first time with the abbreviation in **()**
-    - **avoid using different words for the same concept/thing** :arrow_right: confuses the reader
+    - **Avoid using different words for the same concept/thing** ➡️ confuses the reader
 
 #### 3. Stick to the context-content-conclusion (C-C-C) scheme
 
@@ -128,42 +128,42 @@ The C-C-C scheme defines the structure of the paper on multiple scales:
 The C-C-C scheme produces texts aimed at more patient readers who take their time to engage and interact with a text.
 
 ```{dropdown} Know your audience! ☝️
-It's best to generally avoid writing for impatient readers. We'll have to rely on the title and abstract for this, but these can be caught by presenting the most exciting content first while necessarily following up with important context to remain credible.
+It's generally best to avoid writing for impatient readers. For this, we’ll have to rely on the title and abstract, but we can overcome this by presenting the most exciting content first, while necessarily providing important context to maintain credibility.
 ```
 
 #### 4. Optimize your logical flow by avoiding zig-zag and using parallelism
 
 Avoid zig-zag through your story:
 
-- only the **central idea should be touched upon multiple times**
-- **minimize** the number of **subject changes**
-- **string related paragraphs together** without interruptions by unrelated materials
+- Only the **central idea should be touched upon multiple times**
+- **Minimize** the number of **subject changes**
+- **String related paragraphs together** without interruptions by unrelated materials
 
-Instead, make use of **parallelism** to provide structure:
+Using parallelism is also recommended to provide structure.
 
-- parallel messages ➡️ parallel form ➡️ easier for reader
-- communicate **different points of an overarching topic using the same syntax**
+- Parallel messages ➡️ parallel form ➡️ easier for reader
+- Communicate **different points of an overarching topic using the same syntax**
 
 ```{card}
 ✅ **Parallelism**
 ^^^
- Introduction: 
+Introduction: 
 
- - Hypothesis 1
- - Hypothesis 2
- - Hypothesis 3
+- Hypothesis 1
+- Hypothesis 2
+- Hypothesis 3
 
- Methods:
+Methods:
 
- Analysis 1 ➡️ Hypothesis 1
- Analysis 2 ➡️ Hypothesis 2
- Analysis 3 ➡️ Hypothesis 3
+- Analysis 1 ➡️ Hypothesis 1  
+- Analysis 2 ➡️ Hypothesis 2  
+- Analysis 3 ➡️ Hypothesis 3  
 
- Conclusion:
+Conclusion:
 
- conclusion 1 ➡️ Hypothesis 1
- conclusion 2 ➡️ Hypothesis 2
- conclusion 3 ➡️ Hypothesis 3
+- Conclusion 1 ➡️ Hypothesis 1  
+- Conclusion 2 ➡️ Hypothesis 2  
+- Conclusion 3 ➡️ Hypothesis 3  
 ```        
 
 ### The components of a paper (Rules 5–8)
@@ -176,16 +176,16 @@ Quite often, the abstract is the **only part that will be read**; therefore, it 
 
 The **C-C-C-scheme** is again highly conserved in the abstract
 
-- **context** = First sentence:
+- **Context** = First sentence:
     - introducing the **broader field** and the **specific research question of study** 
     - distinguish given paper from current state-of-the-art ➡️ the **specific gap**
     - why does it matter ➡️ **connection between the specific gap and the broader context**
 
-- **content**: 
+- **Content**: 
     - describe the **method/approach** used to fill the gap 
     - executive **summary of results**
 
-- **conclusion** = Last sentence
+- **Conclusion** = Last sentence
     - interpret results to **answer question(s) posed in context**
     - how do results **impact the broader field** ➡️ “broader significance”
     
@@ -260,22 +260,17 @@ Let's introduce some helpful processes and habits to **maximize impact** and **m
 
 It's paramount to emphasize the **central logic** that underlies the scientific claim, the **main message** of the paper. Reflections on the logic behind the paper connect the experimental phase with the paper-writing phase.
 
-You should aim to:
-
-- allocate time based on presumptive importance
-
-    - **title, abstract, figures** vs. rest/methods (not ideal but unfortunately the default for most readers)
+You should aim to allocate time based on presumptive importance
+- **title, abstract, figures** vs. rest/methods (not ideal but unfortunately the default for most readers)
 
 Plan before producing
-
-- make an **outline**
+- Make an **outline**
   - informal sentence for each planned paragraph
 - (potentially) start the process around the description of each result
 - each paragraph has a defined role ideally defined at the outline stage
 
-Figures and tables take time to be designed and implemented well.
+Figures and tables take time to be designed and implemented well. So before investing time, consider the following:
 
-So before investing time, consider the following:
 
 ```{card}
 **Figures** 📶
@@ -317,7 +312,7 @@ If some of the points below are true for your paper, just go back to the linked 
 ````{card}
 **Checklist for writing your paper**
 ^^^
-- Readers cannot give a 1-sentence summary. [(rule 1)](https://luciebinder.github.io/diler-digital-literacy-new/content/writing/scientific_paper.html#focus-your-paper-on-a-central-contribution-which-you-communicate-in-the-title)
+- [] Readers cannot give a 1-sentence summary. [(rule 1)](https://luciebinder.github.io/diler-digital-literacy-new/content/writing/scientific_paper.html#focus-your-paper-on-a-central-contribution-which-you-communicate-in-the-title)
 - Readers don't "get" the paper. [(rule 2)](https://luciebinder.github.io/diler-digital-literacy-new/content/writing/scientific_paper.html#write-for-flesh-and-blood-human-beings-who-do-not-know-your-work)
 - Readers ask why something matters or what it means. [(rule 3)](https://luciebinder.github.io/diler-digital-literacy-new/content/writing/scientific_paper.html#stick-to-the-context-content-conclusion-c-c-c-scheme)
 - Readers stumble on a small section of the text. [(rule 4)](https://luciebinder.github.io/diler-digital-literacy-new/content/writing/scientific_paper.html#optimize-your-logical-flow-by-avoiding-zig-zag-and-using-parallelism)
